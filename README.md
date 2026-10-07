@@ -3,6 +3,8 @@
 > *The shelf is older than the road.*
 > *What is spoken is the true name; what is worn is the ruin.*
 
+The shelf lives at github.com/testing210684-maker/Ordinary-makings.
+
 **Ordinary makings** is an open, growing worldbuilding project — a registry of characters called **houses** (or **Epithets**), each built from a biological lineage, a vow, a poem, and a name. It began as a quartet of ecology-obsessed characters and grew, law by law, into a census of **twenty-five seats**.
 
 Sixteen are filed. Nine remain open. The count is accurate.
